@@ -1,2 +1,2 @@
 # Overview
-Trying my hand at a Kaggle competition dure August 29, 2025.
+Trying my hand at a Kaggle competition due August 29, 2025.
